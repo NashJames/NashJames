@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align="right" src="./OG Tree of Life.svg" width="210" height="245">
+
+## :snowboarder: Me
+Hi, I'm James - a graduate full-stack developer at **IBM**. I love sports, movies, colour and problem solving.
+
+I plan to use the time I do have to learn and create various open-source projects. We can work to decentralise solutions to the world's greatest problems.
+
+## :pushpin: Current Projects
+  - [ ] IBM Enterprise Software
+
 
 <!--
 **NashJames/NashJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
