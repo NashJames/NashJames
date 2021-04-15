@@ -1,9 +1,9 @@
 <img align="right" src="./OG Tree of Life.svg" width="210" height="245">
 
 ## :snowboarder: Me
-Hi, I'm James - a graduate full-stack developer at **IBM**. I love sports, movies, colour and solving problems.
+Hi, I'm James - a graduate full-stack developer at **IBM**. I love sports, movies and solving things.
 
-I'm using what spare time I do have to learn and improve through small open-source projects. My eventual aim is to contribute towards the world's most impactful problems, possibly through more decentralised solutions.
+I'm using what spare time I do have to learn and improve through small open-source projects. My eventual aim is to contribute towards the world's most impactful problems, through my work or personal projects.
 
 ## :pushpin: Current Projects
   - [ ] IBM Enterprise Software
