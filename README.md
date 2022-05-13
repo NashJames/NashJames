@@ -10,6 +10,7 @@ I enjoy using what spare time I have to learn and improve through small open-sou
 ## 📌 Projects
 
 - [ ] IBM Enterprise Software
+- [ ] Pinned Repositories
 
 ## 📚 Experience
 
