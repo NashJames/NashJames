@@ -53,6 +53,7 @@ I enjoy using what spare time I have to learn and improve through small open-sou
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-101010?style=flat-square&logoColor=white&logo=next.js" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoColor=white&logo=github" />
   <img alt="IBM Carbon Design System" src="https://img.shields.io/badge/-IBM_Carbon_Design_System-202020?style=flat-square&logoColor=white&logo=ibm" />
+  <!-- JFrog Artifactory -->
 </p>
 
 <!--
