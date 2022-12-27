@@ -10,11 +10,12 @@ I am particularly fond of perfecting my webdev and design skills at the moment.
 
 In future, I hope my work will include attempts at solving some of the world's most impactful problems.
 
+<!--
 ## 📌 Projects
 
 - [ ] IBM Enterprise Software
 - [ ] Pinned Repositories
-
+ -->
 ## 📚 Tech Stack
 
 <p>
