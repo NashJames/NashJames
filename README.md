@@ -15,7 +15,7 @@ In future, I hope my work will include attempts at solving some of the world's m
 - [ ] IBM Enterprise Software
 - [ ] Pinned Repositories
 
-## 📚 Experience
+## 📚 Tech Stack
 
 <p>
   <!-- https://shields.io/ -->
