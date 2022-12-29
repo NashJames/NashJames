@@ -52,10 +52,10 @@ In future, I hope my work will include attempts at solving some of the world's m
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logoColor=white&logo=graphql" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logoColor=white&logo=sass" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logoColor=white&logo=styled-components" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-101010?style=flat-square&logoColor=white&logo=next.js" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoColor=white&logo=github" />
   <img alt="IBM Carbon Design System" src="https://img.shields.io/badge/-IBM_Carbon_Design_System-202020?style=flat-square&logoColor=white&logo=ibm" />
-  <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logoColor=white&logo=inkscape" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoColor=white&logo=github" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-101010?style=flat-square&logoColor=white&logo=next.js" />
+  <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-050505?style=flat-square&logoColor=white&logo=inkscape" />
 </p>
 
 <!--
