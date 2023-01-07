@@ -1,5 +1,10 @@
-<img align="right" width="350" src="https://raw.githubusercontent.com/NashJames/Potions/master/src/potions-light.svg?sanitize=true#gh-light-mode-only" />
-<img align="right" width="350" src="https://raw.githubusercontent.com/NashJames/Potions/master/src/potions-dark.svg?sanitize=true#gh-dark-mode-only" />
+<a href="https://github.com/NashJames/Potions#gh-light-mode-only">
+ <img align="right" width="350" src="https://raw.githubusercontent.com/NashJames/Potions/master/src/potions-light.svg?sanitize=true" />
+</a>
+<a href="https://github.com/NashJames/Potions#gh-dark-mode-only">
+ <img align="right" width="350" src="https://raw.githubusercontent.com/NashJames/Potions/master/src/potions-dark.svg?sanitize=true" />
+</a>
+
 
 ## 🏂 Me
 
