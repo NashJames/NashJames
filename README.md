@@ -8,7 +8,7 @@
 
 ## 🏂 Me
 
-Hi, I'm James - a full-stack developer at **IBM**. I love sports, movies and building things.
+Hi, I'm James - a front-end developer at **Octopus Energy**. I love sports, movies and building things.
 
 I enjoy using what spare time I have to learn and improve through small open-source projects. 
 I am particularly fond of perfecting my webdev and design skills at the moment.
@@ -18,9 +18,11 @@ In future, I hope my work will include attempts at solving some of the world's m
 <!--
 ## 📌 Projects
 
-- [ ] IBM Enterprise Software
 - [ ] Pinned Repositories
- -->
+- [ ] [Octopus Electroverse](https://electroverse.octopus.energy/)
+- [x] IBM Enterprise Software (Security and Legal Scanning Software)
+-->
+
 ## 📚 Tech Stack
 
 <p>
