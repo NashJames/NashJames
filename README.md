@@ -8,7 +8,7 @@
 
 ## 🏂 Me
 
-Hi, I'm James - a front-end developer at **Octopus Energy**. I love sports, movies and building things.
+Hi, I'm James - a front-end developer at **Octopus Electroverse**. I love sports, movies and building things.
 
 I enjoy using what spare time I have to learn and improve through small open-source projects. 
 I am particularly fond of perfecting my webdev and design skills at the moment.
